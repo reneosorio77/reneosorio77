@@ -43,4 +43,10 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="40" height="40"/>
   </a>
+    <a href="https://www.stata.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Stata_logo.svg/1200px-Stata_logo.svg.png" alt="Stata" width="40" height="40"/>
+  </a>
+  <a href="https://www.qgis.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/QGIS_logo_new.svg/1920px-QGIS_logo_new.svg.png" alt="QGIS" width="40" height="40"/>
+  </a>
 </p>
